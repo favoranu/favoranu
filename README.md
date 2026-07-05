@@ -6,9 +6,9 @@ I develop real projects across cryptocurrency and mobile gaming. My work focuses
 
 ## Crypto & Blockchain Projects
 
-**[haveadream](https://github.com/favoranu/haveadream)** — `$HAD on Solana
+**[haveadream](https://github.com/favoranu/haveadream)** — $HAD on Solana
 
-Official site and Solana app for the `$HAD token.
+Official site and Solana app for the $HAD token.
 
 - Site: [haveadream.xyz](https://www.haveadream.xyz)
 - App: [app.haveadream.xyz](https://app.haveadream.xyz)
@@ -58,7 +58,7 @@ I'm shy by nature, so I don't always reach out first. But when someone arrives t
 
 ## Current Focus
 
-- Advancing the `$HAD token project on Solana
+- Advancing the $HAD token project on Solana
 - Developing and publishing mobile games under the HellaGames brand
 - Creating reusable tools and starters for the game development community
 
@@ -69,3 +69,5 @@ I'm shy by nature, so I don't always reach out first. But when someone arrives t
 - Gaming: [hellagames.com](https://hellagames.com)
 
 Let's create abundance together.
+
+
