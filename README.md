@@ -67,7 +67,7 @@ I'm shy by nature, so I don't always reach out first. But when someone arrives t
 - GitHub: [favoranu](https://github.com/favoranu)
 - Crypto: [haveadream.xyz](https://www.haveadream.xyz)
 - Gaming: [hellagames.com](https://hellagames.com)
+- X/Twitter: [@favoranu](https://x.com/favoranu) (recommended)
+- LinkedIn: (add if you have one)
 
 Let's create abundance together.
-
-
