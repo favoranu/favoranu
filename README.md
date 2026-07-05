@@ -1,12 +1,12 @@
 # Hi, I'm favoranu
 
-**I AM** a builder creating abundance by nature — for the greater good and for humanity.
+**I AM** a builder creating abundance by nature â€” for the greater good and for humanity.
 
 I develop real projects across cryptocurrency and mobile gaming. My work focuses on building meaningful systems, tools, and experiences that empower people and create lasting value.
 
 ## Crypto & Blockchain Projects
 
-**[haveadream](https://github.com/favoranu/haveadream)** — $HAD on Solana
+**[haveadream](https://github.com/favoranu/haveadream)** â€” $HAD on Solana
 
 Official site and Solana app for the $HAD token.
 
@@ -16,7 +16,7 @@ Official site and Solana app for the $HAD token.
 
 ## Gaming Projects
 
-**[hellagames](https://github.com/favoranu/hellagames)** — HellaGames Brand
+**[hellagames](https://github.com/favoranu/hellagames)** â€” HellaGames Brand
 
 Long-term owner of hellagames.com and the HellaGames brand.
 
@@ -71,4 +71,3 @@ I'm shy by nature, so I don't always reach out first. But when someone arrives t
 - LinkedIn: (add if you have one)
 
 Let's create abundance together.
-
