@@ -22,28 +22,45 @@ Long-term owner of hellagames.com and the HellaGames brand.
 
 **[Water Sort Puzzle](https://github.com/favoranu/ubiquitous-palm-tree)**
 
-Unity mobile puzzle game with core mechanics, level design, and monetization planning.
+Unity mobile puzzle game with complete core systems including pour mechanics, undo functionality, win detection, level management, and monetization planning (Unity Ads + In-App Purchases). Includes full documentation for architecture and 30-level design.
 
-## Tools & Resources
+## Tools & Development Resources
 
 **[ubiquitous-palm-tree](https://github.com/favoranu/ubiquitous-palm-tree)**
 
-Bootstrap scripts and starters for Unity and Godot mobile game projects.
+Bootstrap scripts and reference implementations for rapidly starting new mobile game projects in Unity (with Godot notes). Designed to help creators ship polished games faster with professional structure and monetization foundations.
 
-## Skills
+## Skills & Expertise
 
-- Unity (C#) and mobile game development
-- Solana blockchain and token projects
-- Clean architecture and documentation
-- Scripting and automation
+**Mobile Game Development**
+- Unity Engine & C#
+- 2D Puzzle & Casual Games
+- Game Architecture, Core Mechanics & Level Design
+- Monetization (Unity Ads, IAP)
+- Mobile Optimization & Publishing
+
+**Blockchain & Web3**
+- Solana Token Development
+- Tokenomics & Whitepaper Creation
+- Frontend + Wallet Integration
+
+**General Development**
+- Clean Code & Professional Project Structure
+- PowerShell Scripting & Automation
+- Technical Documentation
+- Rapid Prototyping & Iteration
 
 ## Philosophy
 
-Abundant by nature. I build for the greater good and for humanity. I'm grateful when connections feel mutual and the energy flows both ways.
+Abundant by nature. I build for the greater good and for humanity. Games that bring joy and challenge. Tokens that represent dreams and opportunity. Tools that help other creators move faster. Everything comes from a place of intention and service.
+
+I'm shy by nature, so I don't always reach out first. But when someone arrives this way, with genuine presence, I read it with care and respond from the same grateful place.
 
 ## Current Focus
 
-Advancing the  token and developing mobile games under the HellaGames brand.
+- Advancing the  token project on Solana
+- Developing and publishing mobile games under the HellaGames brand
+- Creating reusable tools and starters for the game development community
 
 ## Connect
 
